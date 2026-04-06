@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Swapnil Das</h1>
-
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" />
-</h1>
-
 <h3 align="center">JAVA FULLSTACK DEVELOPER</h3>
+
+<p align="left"> <a href="https://twitter.com/swapnil_das22" target="blank"><img src="https://img.shields.io/twitter/follow/swapnil_das22?logo=twitter&style=for-the-badge" alt="swapnil_das22" /></a> </p>
 
 - 🌱 I’m currently learning **JAVA FULLSTACK**
 
